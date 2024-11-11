@@ -6,7 +6,7 @@ Este proyecto utiliza herramientas del ecosistema Hadoop para procesar y analiza
 
 En este miniproyecto, procesaremos un conjunto de datos de Last.fm que contiene registros de canciones escuchadas por los usuarios. Se realizarán consultas para obtener un ranking de artistas populares y analizar la demografía de los oyentes del artista más popular.
 
-## Dataset
+## Datasets
 El conjunto de datos incluye dos archivos:
 
 userid-profile.tsv: Información de perfil de 992 usuarios con los siguientes campos:
